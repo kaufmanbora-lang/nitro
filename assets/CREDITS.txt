@@ -1,0 +1,38 @@
+NITRO LIVE — авторы ресурсов / credits
+======================================
+
+3D-модели (Sketchfab)
+- «2017 LB★WORKS Nissan GT-R R35 type 2» — ddiaz-design — CC BY-NC-SA 4.0
+  https://sketchfab.com/3d-models/2017-lbworks-nissan-gt-r-r35-type-2-74c72f4f0da942d18c24d72cbb2c727d
+- «2024 GMC Sierra 1500 AT4X» — VTX_car — CC BY-NC-SA 4.0
+  https://sketchfab.com/3d-models/2024-gmc-sierra-1500-at4x-0acfcf20e57a4cce90751639e335f36f
+- «Subaru Impreza WRC STI 2011» — www.vecarz.com | heynic — CC BY 4.0
+  https://sketchfab.com/3d-models/b554b5b392894c43911c2fbb81b289ee
+- «Various Forest Assets Pack» (деревья, кусты, валуны) — dariiiii — CC BY 4.0
+  https://sketchfab.com/3d-models/cf138b8eb2d340cda643ed59f824989c
+- «Stone Pack» — ashkan.fancy — CC BY 4.0
+  https://sketchfab.com/3d-models/f3e0a67b9ca243b09119177649f21e17
+- «Downtown Buildings Set - Low Poly model» — DanielZhabotinsky — CC BY 4.0
+  https://sketchfab.com/3d-models/7378e7fb9c914c39880d9913a6f4e1d6
+- «Brownstone Building Set - Low poly model» — DanielZhabotinsky — CC BY 4.0
+  https://sketchfab.com/3d-models/b15e6344acd844eabc823e1cc8332574
+- «Realistic chicago buildings» — 99.Miles — CC BY 4.0
+  https://sketchfab.com/3d-models/c4a3993ef1e84e6d9d5a15c78da88aae
+- «New York Buildings» — sumitmangela — CC BY 4.0
+  https://sketchfab.com/3d-models/e7922fe0f7b14ed786f84529f9217dac
+- «Road Barrier Collection» — miguelteixeira.11 — CC BY 4.0
+  https://sketchfab.com/3d-models/bbc824137db540cabcccb0091fcd3222
+Модели оптимизированы для телефонов (упрощение, сжатие), машины перекрашиваются в игре.
+
+Текстуры: Poly Haven, ambientCG — CC0.
+
+Звуки (OpenGameArt)
+- «Car Engine Loop 96kHz, 4s» — qubodup (Trigger Rally) — CC BY 3.0 — https://opengameart.org/content/car-engine-loop-96khz-4s
+- «Car tire squeal skid loop» — Tom Haigh (audible-edge), qubodup — CC BY 3.0 — https://opengameart.org/content/car-tire-squeal-skid-loop
+- «Car Sound Effects Pack» — GGBotNet — CC0 — https://opengameart.org/content/car-sound-effects-pack-low-quality
+- «100 CC0 SFX» — rubberduck — CC0 — https://opengameart.org/content/100-cc0-sfx
+
+Технические характеристики машин: открытые данные производителей и FIA (Nissan, Subaru/Prodrive, GMC).
+
+Библиотеки: three.js (MIT), Rapier (Apache-2.0), tiktok-live-connector (MIT).
+Картинки подарков TikTok принадлежат TikTok/ByteDance и показываются только для обозначения подарков.
