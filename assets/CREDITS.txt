@@ -22,7 +22,17 @@ NITRO LIVE — авторы ресурсов / credits
   https://sketchfab.com/3d-models/e7922fe0f7b14ed786f84529f9217dac
 - «Road Barrier Collection» — miguelteixeira.11 — CC BY 4.0
   https://sketchfab.com/3d-models/bbc824137db540cabcccb0091fcd3222
-Модели оптимизированы для телефонов (упрощение, сжатие), машины перекрашиваются в игре.
+Персонажи (подиум, маршал с флагом, болельщики)
+- «race driver» — BELAZ — CC BY 4.0
+  https://sketchfab.com/3d-models/race-driver-e4e97df9865d466c8359fbb23e757308
+- «Rider» (анимации празднования) — PropShop™ — CC BY 4.0
+  https://sketchfab.com/3d-models/rider-7c5da195bf6a4323a37390b299efba0c
+- «Racer Girl» — Peter_D — CC BY 4.0
+  https://sketchfab.com/3d-models/racer-girl-c64ba6f76a804c7f99563bfcef225f06
+- «Background People for Blender promo | Animated» — Jungle Jim — CC BY 4.0
+  https://sketchfab.com/3d-models/background-people-for-blender-promo-animated-ee74d352e49347658dd8675ffebf13eb
+Модели оптимизированы для телефонов (упрощение, сжатие), машины перекрашиваются в игре,
+комбинезоны гонщиков — в цвет их машин, анимации перенесены на другие скелеты.
 
 Текстуры: Poly Haven, ambientCG — CC0.
 
