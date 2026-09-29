@@ -350,3 +350,13 @@ h1, h2, h3 { font-family: var(--head); font-weight: 400; margin: 0; letter-spaci
 
 /* speed lines at high speed (fainter than the boost lines) */
 #fx .speedlines { position: absolute; inset: -6%; pointer-events: none; opacity: 0; transition: opacity .3s; background: repeating-conic-gradient(from 0deg at 50% 50%, rgba(255,255,255,0) 0deg 2.9deg, rgba(255,255,255,.42) 3.2deg 3.7deg, rgba(255,255,255,0) 4deg 5.2deg, rgba(255,255,255,.26) 5.4deg 5.75deg, rgba(255,255,255,0) 6deg 7deg); mask-image: radial-gradient(ellipse 60% 62% at 50% 50%, transparent 50%, #000 95%); -webkit-mask-image: radial-gradient(ellipse 60% 62% at 50% 50%, transparent 50%, #000 95%); }
+
+/* after a boost: no damage for a few seconds */
+#hud .immune { position: absolute; left: 50%; top: calc(12px + var(--safe-t, 0px)); transform: translateX(-50%); white-space: nowrap; pointer-events: none; padding: 5px 14px; border-radius: 999px; background: rgba(40,150,255,.28); border: 1px solid rgba(120,200,255,.6); color: #e4f4ff; font-size: 14px; font-weight: 800; text-shadow: 0 1px 4px rgba(0,0,0,.6); opacity: 0; transition: opacity .2s; }
+#hud .immune.on { opacity: 1; }
+/* host: nicknames above the cars */
+.ov-tags { position: absolute; inset: 0; overflow: hidden; pointer-events: none; }
+.ov-tags .tag { position: absolute; left: 0; top: 0; transform-origin: 50% 100%; display: flex; align-items: center; gap: 6px; max-width: 200px; padding: 3px 10px 3px 7px; border-radius: 999px; background: rgba(10,12,22,.66); border: 1px solid rgba(255,255,255,.18); color: #fff; font: 800 13px/1.25 var(--body); white-space: nowrap; box-shadow: 0 2px 10px rgba(0,0,0,.35); will-change: transform; }
+.ov-tags .tag i { width: 9px; height: 9px; border-radius: 50%; flex: none; box-shadow: 0 0 0 1.5px rgba(255,255,255,.75); }
+.ov-tags .tag span { overflow: hidden; text-overflow: ellipsis; }
+.ov-tags .tag.dnf { text-decoration: line-through; color: #ffb3c0; }
