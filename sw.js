@@ -1,6 +1,6 @@
 // Nitro Live service worker: hashed code and assets are cached on the phone; the page itself, version.json and
 // live.json always come from the network (updates and the host's current address are never stale).
-const C = 'nitro-0.1.11-28c54453ac';
+const C = 'nitro-0.1.12-ca6aaa6636';
 self.addEventListener('install', e => self.skipWaiting());
 self.addEventListener('activate', e => e.waitUntil(caches.keys().then(ks => Promise.all(ks.filter(k => k !== C && k.startsWith('nitro-')).map(k => caches.delete(k)))).then(() => self.clients.claim())));
 self.addEventListener('fetch', e => {
